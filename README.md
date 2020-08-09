@@ -4,7 +4,7 @@ Developed on a Raspberry Pi 4 board using library **gpiozero**.
 
 ## Run command on Raspberry Pi from a physical button
 
-See [`gpiozero documentation`](https://gpiozero.readthedocs.io/en/stable/index.html) :link:    for the required GPIO input and components.
+See [`gpiozero documentation`](https://gpiozero.readthedocs.io/en/stable/index.html) for the required GPIO input and components.
 
 ### Get started
 
