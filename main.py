@@ -10,9 +10,6 @@ parser = ArgumentParser('physical_button')
 parser.add_argument('cmd', help="Command to run as argument")
 args = parser.parse_args()
 
-print('Running PWD led test script...\n')
-
-
 def button_pressed():
     print(f'Running command: \'{args}\'')
 
